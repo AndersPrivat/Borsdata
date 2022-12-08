@@ -1,6 +1,6 @@
 bleach==3.1.0
 borsdata-sdk==0.0.4
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 docutils==0.14
 get==2019.4.13
